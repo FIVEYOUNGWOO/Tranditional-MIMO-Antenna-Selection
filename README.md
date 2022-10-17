@@ -1,4 +1,4 @@
-## Tranditional-MIMO-antenna-selection
+## Tranditional-MIMO-Antenna-Selection
 
 Implementation of the conventional algorithm-based MIMO antenna selection schemes in MATLAB.
 
